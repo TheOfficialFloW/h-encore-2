@@ -1,3 +1,5 @@
+**ATTENTION: You should NOT attempt downgrading using modoru on FW 3.71**
+
 # h-encore²
 
 *h-encore²*, where *h* stands for hacks and homebrews, is the fourth public jailbreak for the *PS Vita™* which supports the newest firmwares 3.65-3.71. It allows you to make kernel- and user-modifications, change the clock speed, install plugins, run homebrews and much more.
@@ -67,11 +69,6 @@
 
 - "I don't see all folders in VitaShell." - Launch the Settings application and select `HENkaku Settings`, then select `Enable unsafe homebrews`. This will grant you full permission in VitaShell.
 - "I can't find the HENkaku Settings." - Launch the exploit and reset taiHEN config.txt and reinstall HENkaku.
-
-### enso/permanent hack
-
-- "Can I install enso on 3.67-3.71?" - Not on this firmware, but you can downgrade to firmware 3.65 using [modoru](https://github.com/TheOfficialFloW/modoru) and then install enso.
-- "Can I install enso on 3.65?" - Yes, you can use *h-encore²* to hack your device and then install the permanent hack using [this](https://github.com/TheOfficialFloW/enso/releases).
 
 ### General
 
