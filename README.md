@@ -1,6 +1,6 @@
 # h-encore²
 
-*h-encore²*, where *h* stands for hacks and homebrews, is the second public jailbreak for the *PS Vita™* which supports the newest firmwares 3.65-3.71. It allows you to make kernel- and user-modifications, change the clock speed, install plugins, run homebrews and much more.
+*h-encore²*, where *h* stands for hacks and homebrews, is the fourth public jailbreak for the *PS Vita™* which supports the newest firmwares 3.65-3.71. It allows you to make kernel- and user-modifications, change the clock speed, install plugins, run homebrews and much more.
 
 ## Requirements
 
@@ -78,7 +78,6 @@
 - "Can I switch the PSN account after having *h-encore²* installed?" - Yes, since the demo is DRM-free it does not depend on your account.
 - "Are there any risks involved in using *h-encore²*?" - No, since it does not modify the OS, but only insert temporary patches into the system.
 - "Can I install it without USB connection?" - You can also connect your PS Vita with your computer using Wi-Fi (there's an option in the Content Manager).
-- "How do I get into bootstrap menu?" - launch *h-encore²* while holding the R trigger.
 
 ## Donation
 
