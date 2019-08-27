@@ -1,12 +1,12 @@
-**ATTENTION: You should NOT attempt downgrading using modoru on FW 3.71**
+**ATTENTION: You should NOT attempt downgrading using modoru on FW 3.71 or 3.72**
 
 # h-encore²
 
-*h-encore²*, where *h* stands for hacks and homebrews, is the fourth public jailbreak for the *PS Vita™* which supports the newest firmwares 3.65-3.71. It allows you to make kernel- and user-modifications, change the clock speed, install plugins, run homebrews and much more.
+*h-encore²*, where *h* stands for hacks and homebrews, is the fourth public jailbreak for the *PS Vita™* which supports the newest firmwares 3.65-3.72. It allows you to make kernel- and user-modifications, change the clock speed, install plugins, run homebrews and much more.
 
 ## Requirements
 
-- Your device must be on firmware 3.65-3.71. If you're on a lower firmware, please decide carefully to what firmware you want to update, then search for a trustable guide on [/r/vitahacks](https://www.reddit.com/r/vitahacks/).
+- Your device must be on firmware 3.65-3.72. If you're on a lower firmware, please decide carefully to what firmware you want to update, then search for a trustable guide on [/r/vitahacks](https://www.reddit.com/r/vitahacks/).
 - If your device is a phat OLED model, you need a Memory Card in order to install. There's no need for a Memory Card on Slim/PS TV models, since they already provide an Internal Storage. Make sure you have got at least `270 MB` of free space.
 - Your device must be linked to any PSN account (it doesn't need to be activated though). If it is not, then you must restore default settings in order to sign in.
 
