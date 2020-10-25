@@ -1,5 +1,3 @@
-**ATTENTION: You should NOT attempt downgrading using modoru on FW 3.71-3.73**
-
 # h-encore²
 
 *h-encore²*, where *h* stands for hacks and homebrews, is the fourth public jailbreak for the *PS Vita™* which supports the newest firmwares 3.65-3.73. It allows you to make kernel- and user-modifications, change the clock speed, install plugins, run homebrews and much more.
